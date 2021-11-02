@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.v-application {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.title {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.v-btn__content {
+    font-size: 18px;
+}
+
+.io {
+    background-color: rgba(217, 220, 245, 0.5);
+}
+
+.io-header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 57px;
+}
+
+.io-para {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+}
+
+.io-login {
+    width: 220px;
+    height: 50px;
+    left: 248px;
+    top: 603px;
+}
+
+.io-second {
+    background: url('../Group 132.svg') no-repeat center center fixed !important;
+    background-size: cover;
+    background-color: red;
+}
